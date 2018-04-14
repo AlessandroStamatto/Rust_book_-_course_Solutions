@@ -1,0 +1,6 @@
+http://zsiciarz.github.io/24daysofrust/
+http://cglab.ca/~abeinges/blah/rust-btree-case/
+https://danielkeep.github.io/tlborm/book/
+https://github.com/nrc/r4cppp/blob/master/graphs/README.md
+http://cis198-2016s.github.io/schedule/
+https://github.com/cis198-2016s/homework/tree/master/hw05

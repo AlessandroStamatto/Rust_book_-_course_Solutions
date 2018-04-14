@@ -1,0 +1,1 @@
+env OPENSSL_LIBS=ssl:crypto OPENSSL_LIB_DIR=C:/msys64/mingw64/lib OPENSSL_INCLUDE_DIR=C:/msys64/mingw64/include/openssl cargo build

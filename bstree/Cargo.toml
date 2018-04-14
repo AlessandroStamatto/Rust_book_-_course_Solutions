@@ -1,0 +1,6 @@
+[package]
+name = "bstree"
+version = "0.1.0"
+authors = ["Alessandro Stamatto <astamatto@gmail.com>"]
+
+[dependencies]
